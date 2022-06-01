@@ -1,0 +1,6 @@
+server/node_modules
+server/build
+server/npm-debug.log
+server/.nyc
+server/.env
+server/.DS_Store
